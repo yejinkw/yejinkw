@@ -48,8 +48,8 @@
 
 | Award | Event | Project | Date |
 |---|---|---|---|
-| 🥇 최우수상 (1등) | TABA 아카데미 10기 발표회 | 🤖 [Postura](https://github.com/TABA-postura/AI) | 2025-12-23 |
-| 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 (G7 부문) | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
+| 🥇 최우수상 (1등) | TABA 아카데미 10기 프로젝트 발표회 | 🤖 [Postura](https://github.com/TABA-postura/AI) | 2025-12-23 |
+| 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 | 🏅 장려상 (4등) | 2025 DKU SW융합대학 캡스톤 페스티벌 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 
 ## 📜 Certifications
