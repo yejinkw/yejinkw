@@ -6,6 +6,7 @@
 ## 🚀 Projects
 | Project | Description | Role | Period |
 |---|---|---|---|
+| ☁️ [Cloud Ops Mini Lab](https://github.com/yejin1029/Cloud_Ops_Lab) | Terraform 기반 AWS EC2/Nginx 프로비저닝 랩 | Terraform IaC · user_data 자동 설치 · SG(SSH My IP only) · Verify/Destory | 2026.01 |
 | 🤖 [Postura](https://github.com/TABA-postura/AI) | 웹캠 기반 실시간 자세 교정 웹 서비스 | AI API (FastAPI) · CI/CD 자동 배포 | 2025.10-12 |
 | ✅ [Nginx Runbook](https://github.com/yejin1029/Nginx_troubleshooting) | Nginx 접속 불가 트러블슈팅 Runbook | 장애 재현 · Runbook · tcpdump | 2026.01 |
 | 🗂 [Docker Registry Manager](https://github.com/yejin1029/Docker-Registry-Manager) | Private Registry | Management API (Flask) · Audit Log | 2025.05-06 |
@@ -17,6 +18,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
