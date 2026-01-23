@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a8d5f9,100:1E90FF&height=200&section=header&text=%20Welcome%20to%20Yejin%E2%80%99s%20GitHub🐬%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35)
+
 # Yejin Kwon
 
 운영 가능한 서비스를 만드는 것을 목표로 하는 **클라우드/시스템 엔지니어** 지향 개발자입니다.  
@@ -62,3 +64,5 @@
 
 ## 📧 Contact
 - Email: dpwlsdl1029@naver.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a8d5f9,100:87CEEB&height=150&section=footer)
