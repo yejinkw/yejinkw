@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a8d5f9,100:1E90FF&height=200&section=header&text=%20Welcome%20to%20Yejin%E2%80%99s%20GitHub🧸%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:1E90FF&height=200&section=header&text=%20Welcome%20to%20Yejin%E2%80%99s%20GitHub🧸%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35)
 
 # Yejin Kwon
 
@@ -65,4 +65,4 @@
 ## 📧 Contact
 - Email: dpwlsdl1029@naver.com
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a8d5f9,100:87CEEB&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:87CEEB&height=150&section=footer)
