@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:1E90FF&height=200&section=header&text=%20Welcome%20to%20Yejin%E2%80%99s%20GitHub🧸%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35)
 
-<div align="center">
-
 # Yejin Kwon
 
 운영 가능한 서비스를 만드는 **시스템 엔지니어** · **데이터 엔지니어** 지향 개발자입니다.  
@@ -9,20 +7,10 @@
 > IaC · CI/CD 인프라·배포 자동화, 로그·패킷 기반 트러블슈팅 Runbook으로 운영 신뢰성을 높입니다. <br/>
 데이터 처리와 ML/CV 기능을 API로 제공해 운영 관점에서 안정적으로 제공하는 엔드투엔드 흐름을 지향합니다.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-</div>
-<br/>
+🎓 *B.S. in Computer Engineering, Dankook University*  
+📡 *Undergraduate Research Assistant, Convergence Media Processing Lab*
 
 ## 🤝 Team Projects
 | Project | Description | Role | Period |
