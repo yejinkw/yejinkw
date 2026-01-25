@@ -12,9 +12,9 @@
 🎓 *B.S. in Computer Engineering, Dankook University*  
 📡 *Undergraduate Research Assistant, Convergence Media Processing Lab*
 
-<br/>
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **DevOps / Infra** : 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -42,20 +42,20 @@
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 
-### 🤝 Team Projects
+## 🤝 Team Projects
 | Project | Description | Role | Period |
 |---|---|---|---|
 | 🤖 [Postura](https://github.com/TABA-postura) | 웹캠 기반 실시간 자세 교정 웹 서비스 | AI Inference API · CI/CD | 2025.10-12 |
 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | Unity 기반 스텔스·서바이벌 게임 | Unity Client · Gameplay Logic | 2025.03-11 |
 
-### 🧑‍💻 Solo Projects
+## 🧑‍💻 Solo Projects
 | Project | Description | Period |
 |---|---|---|
 | ☁️ [Cloud Ops Lab](https://github.com/yejin1029/Cloud_Ops_Lab) | Terraform · Nginx Auto Deploy · Verify/Destroy | 2026.01 |
 | ✅ [Nginx Incident Runbook](https://github.com/yejin1029/Nginx_troubleshooting) | Incident Reproduction · Runbook · tcpdump | 2026.01 |
 | 🗂 [Docker Registry Manager](https://github.com/yejin1029/Docker-Registry-Manager) | Private Registry · Management API · Audit Log | 2025.05-06 |
 
-### 🏆 Awards
+## 🏆 Awards
 
 | Award | Event | Project | Date |
 |---|---|---|---|
@@ -63,13 +63,13 @@
 | 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 | 🏅 장려상 (4등) | 2025 DKU SW융합대학 캡스톤 페스티벌 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 
-### 📜 Certifications
+## 📜 Certifications
 
 | Certification | Issuer | Issued |
 |---|---|---|
 | 정보처리기사 | 한국산업인력공단 (HRDK) | 2025-12 |
 
-### 📧 Contact
+## 📧 Contact
 - Email: dpwlsdl1029@naver.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:87CEEB&height=150&section=footer)
