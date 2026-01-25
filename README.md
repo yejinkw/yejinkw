@@ -14,7 +14,7 @@
 | 🗂 [Docker Registry Manager](https://github.com/yejin1029/Docker-Registry-Manager) | Private Registry | Management API (Flask) · Audit Log | 2025.05-06 |
 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | Unity 기반 스텔스·서바이벌 게임 | Unity Client · Storage/Monster Logic | 2025.03-11 |
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 - **DevOps / Infra** : 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -29,7 +29,7 @@
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ASG](https://img.shields.io/badge/ASG-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 - **Languages** : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,11 +43,13 @@
 - **Engine** : 
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 
-- **Libraries / ML / CV** : 
+- **Data / ML** :
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+- **Computer Vision** : 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
