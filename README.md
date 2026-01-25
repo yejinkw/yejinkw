@@ -25,8 +25,11 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 - **Cloud / AWS** : 
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Route%2053](https://img.shields.io/badge/-AWS%20Route%2053-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 - **Languages** : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
