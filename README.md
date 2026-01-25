@@ -2,7 +2,7 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejin1029&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/yejin1029?v=20260125_2"
+  src="https://render.gitanimals.org/farms/yejin1029"
   width="500"
   height="300"
 />
