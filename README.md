@@ -26,7 +26,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - DevOps / Infra : 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -54,7 +54,7 @@
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 
-### 🚀 Projects
+## 🚀 Projects
 | Project | Description | Role | Period |
 |:---:|:---:|:---:|:---:|
 | 🤖 [Postura](https://github.com/TABA-postura) | 실시간 자세 교정 웹 서비스 | AI Inference API · CI/CD | 2025.10-12 |
@@ -63,14 +63,14 @@
 | ✅ [Nginx Runbook](https://github.com/yejin1029/Nginx_troubleshooting) | Nginx 장애 대응 문서 | Incident Repro · tcpdump | 2026.01 |
 | 🗂 [Docker Registry](https://github.com/yejin1029/Docker-Registry-Manager) | Private Registry 관리 서비스 | Management API · Audit Log | 2025.05-06 |
 
-### 🏆 Awards
+## 🏆 Awards
 | Award | Event | Project | Date |
 |:---:|:---:|:---:|:---:|
 | 🥇 최우수상 (1등) | SW아카데미사업 TABA 10기 프로젝트 | 🤖 [Postura](https://github.com/TABA-postura) | 2025-12-23 |
 | 🥉 장려상 (3등) | 2025 캡스톤디자인 경진대회 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 | 🏅 장려상 (4등) | 2025 DKU SW융합대학 캡스톤 페스티벌 | 🎮 [DelRev](https://github.com/hitori839/DelRev) | 2025-12-05 |
 
-### 📜 Certifications
+## 📜 Certifications
 | Certification | Issuer | Issued |
 |:---:|:---:|:---:|
 | 정보처리기사 | 한국산업인력공단 (HRDK) | 2025-12 |
