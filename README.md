@@ -27,7 +27,7 @@
 <br/>
 
 ## 🛠️ Tech Stack
-### DevOps / Infra
+**DevOps / Infra :** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -36,7 +36,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Data / AI
+**Data / AI :** 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -44,13 +44,15 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-### Backend / Client
+**Backend / Client :** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
+
+<br/>
 
 ## 🚀 Projects
 | Project | Role | Period | GitHub |
@@ -60,6 +62,8 @@
 | ☁️ **Cloud Ops Lab** <br/> <sub> *Terraform AWS IaC 자동 배포* </sub> | Terraform · Nginx Deploy | 2026.01 | [![](https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Cloud_Ops_Lab) |
 | ✅ **Nginx Runbook** <br/> <sub> *장애 대응 절차서* </sub> | Incident Repro · tcpdump | 2026.01 | [![](https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Nginx_troubleshooting) |
 | 🗂 **Docker Registry** <br/> <sub> *사설 레지스트리 관리 API* </sub> | Management API · Audit Log | 2025.05-06 | [![](https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Docker-Registry-Manager) |
+
+<br/>
 
 ## 🏆 Awards / Certifications
 ### Awards
