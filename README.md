@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbdefb,100:1E90FF&height=200&section=header&text=%20Welcome%20to%20Yejin%E2%80%99s%20GitHub🧸%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejin1029&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yejin1029?v=20260125_2"
+  width="600"
+  height="300"
+/>
+</a>
+
 # Yejin Kwon
 
 운영 가능한 서비스를 만드는 **시스템 엔지니어** · **데이터 엔지니어** 지향 개발자입니다.  
