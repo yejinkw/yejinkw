@@ -57,7 +57,7 @@
 ## 🚀 Projects
 | Project | Role | Period | GitHub |
 |:---:|:---:|:---:|:---:|
-| 🧘 **Postura** <br/> <sub> *실시간 자세 교정 웹 서비스* </sub> | AI Inference API · CI/CD | 2025.10-12 | [![](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/TABA-postura/AI) [![](https://img.shields.io/badge/Org-181717?style=flat&logo=github&logoColor=white)](https://github.com/TABA-postura) |
+| 🧘 **Postura** <br/> <sub> *실시간 자세 교정 웹 서비스* </sub> | AI Inference API · CI/CD | 2025.09-12 | [![](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/TABA-postura/AI) [![](https://img.shields.io/badge/Org-181717?style=flat&logo=github&logoColor=white)](https://github.com/TABA-postura) |
 | 🎮 **DelRev** <br/> <sub> *Unity 3D 스텔스·서바이벌 게임* </sub> | Client Dev · Data System | 2025.03-11 | [![](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/hitori839/DelRev) |
 | ☁️ **Cloud Ops Lab** <br/> <sub> *Terraform AWS IaC 자동 배포* </sub> | Terraform · Nginx Deploy | 2026.01 | [![](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Cloud_Ops_Lab) |
 | ✅ **Nginx Runbook** <br/> <sub> *장애 대응 절차서* </sub> | Incident Repro · tcpdump | 2026.01 | [![](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Nginx_troubleshooting) |
@@ -68,7 +68,7 @@
 ## 🏆 Awards / Certifications
 ### Awards
 - 🥇 **최우수상 (1등)** | SW아카데미사업 TABA 10기 프로젝트 (2025.12.23)  [![](https://img.shields.io/badge/%20-Postura-181717?style=flat&logo=github&logoColor=white)](https://github.com/TABA-postura)
-- 🥉 **장려상 (3등)** | 캡스톤디자인 경진대회 (2025.12.05)  [![](https://img.shields.io/badge/%20-DelRev-181717?style=flat&logo=github&logoColor=white)](https://github.com/hitori839/DelRev)
+- 🥉 **장려상 (3등)** | RIEF-FESTA 캡스톤디자인 경진대회 (2025.12.05)  [![](https://img.shields.io/badge/%20-DelRev-181717?style=flat&logo=github&logoColor=white)](https://github.com/hitori839/DelRev)
 - 🏅 **장려상 (4등)** | DKU SW융합대학 캡스톤 페스티벌 (2025.12.05)  [![](https://img.shields.io/badge/%20-DelRev-181717?style=flat&logo=github&logoColor=white)](https://github.com/hitori839/DelRev)
 
 ### Certifications
