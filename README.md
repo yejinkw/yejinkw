@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yejin1029&utm_content=farm">
-    <img
-    src="https://render.gitanimals.org/farms/yejin1029"
-  />
-  </a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yejin1029"/>
+</a>
 
 <br/>
 <br/>
