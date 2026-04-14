@@ -1,6 +1,6 @@
 ## Yejin Kwon
 
-Cloud / Infrastructure Engineer
+**Cloud / Infrastructure Engineer**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -13,7 +13,7 @@ Cloud / Infrastructure Engineer
 
 ### ☁️ Projects
 
-**OpenStack HA Lab** — Deployed a three-node all-in-one OpenStack HA environment with Masakari, Octavia, and Ceph <br/>
+**OpenStack HA Lab** — Three-node OpenStack HA deployment with Masakari, Octavia, and Ceph <br/>
 **Cloud Ops Lab** — Terraform-based AWS infrastructure provisioning <br/>
 **Nginx Runbook** — Incident analysis and recovery procedure documentation <br/>
 **Docker Registry Manager** — Private registry management API and audit logging <br/>
