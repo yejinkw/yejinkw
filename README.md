@@ -13,16 +13,16 @@
 
 ### ☁️ Projects
 
-**OpenStack HA Lab** — Three-node OpenStack HA deployment with Masakari, Octavia, and Ceph <br/>
-**Cloud Ops Lab** — Terraform-based AWS infrastructure provisioning <br/>
-**Nginx Runbook** — Incident analysis and recovery procedure documentation <br/>
-**Docker Registry Manager** — Private registry management API and audit logging <br/>
+[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/OpenStack-3Node-HA-AllinOne-Lab)  **OpenStack HA Lab** — 3-node OpenStack HA deployment with Masakari, Octavia, and Ceph <br/>
+[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Cloud_Ops_Lab)  **Cloud Ops Lab** — Terraform-based AWS infrastructure provisioning <br/>
+[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Nginx_troubleshooting)  **Nginx Runbook** — Incident analysis and recovery procedure documentation <br/>
+[![](https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white)](https://github.com/yejin1029/Docker-Registry-Manager)  **Docker Registry Manager** — Private registry management API and audit logging <br/>
 
 ### 📜 Certifications
 
-**정보처리기사** — 한국산업인력공단 `2025.12` <br/>
-**ADsP** — 한국데이터산업진흥원 `2026.03` <br/>
-**SQLD** — 한국데이터산업진흥원 `2026.03` <br/>
+**정보처리기사** — HRDK `2025.12` <br/>
+**ADsP** — K-DATA `2026.03` <br/>
+**SQLD** — K-DATA `2026.03` <br/>
 
 <br/>
 
