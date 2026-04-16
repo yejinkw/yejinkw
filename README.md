@@ -20,9 +20,9 @@
 
 ### 📜 Certifications
 
-**정보처리기사** — HRDK `2025.12` <br/>
-**ADsP** — K-DATA `2026.03` <br/>
-**SQLD** — K-DATA `2026.03` <br/>
+**Engineer Information Processing** — HRDK (Dec 2025) <br/>
+**ADsP** — K-DATA (Mar 2026) <br/>
+**SQLD** — K-DATA (Mar 2026) <br/>
 
 <br/>
 
