@@ -8,8 +8,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<br/>
-
 ```
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
         IaaS Engineer ໒꒱*॰
@@ -18,3 +16,16 @@
 　         ( ᴖ ‧̫ ᴖ ||
   　       /　つ   Φ
 ```
+
+#### What I do
+🏗 Design and build **private cloud infrastructure** based on IaaS <br/>
+☁️ Deploy and manage **OpenStack** environments end-to-end <br/>
+⚙️ Automate infrastructure provisioning with **Ansible** <br/>
+🐳 Set up **Kubernetes** clusters on top of IaaS platforms <br/>
+
+#### Certifications
+- **Engineer Information Processing** - HRDK `2025.12`
+- **ADsP** - K-Data `2026.03`
+- **SQLD** - K-Data `2026.03`
+- **Linux Master Level 2** - KAIT `2026.07`
+
