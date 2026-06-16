@@ -18,10 +18,9 @@
 ```
 
 #### Focused On
-🏗 Design and build **private cloud infrastructure** based on IaaS <br/>
-☁️ Deploy and manage **OpenStack** environments end-to-end <br/>
-⚙️ Automate infrastructure provisioning with **Ansible** <br/>
-🐳 Set up **Kubernetes** clusters on top of IaaS platforms <br/>
+🏗 Build and manage **private cloud infrastructure** with **OpenStack** <br/>
+⚙️ Automate infrastructure deployment with **Ansible** <br/>
+🐳 Set up and operate **Kubernetes** clusters on top of IaaS <br/>
 
 #### Certifications
 - **Engineer Information Processing** - HRDK `2025.12`
