@@ -17,7 +17,7 @@
   　       /　つ   Φ
 ```
 
-#### What I do
+#### Focused On
 🏗 Design and build **private cloud infrastructure** based on IaaS <br/>
 ☁️ Deploy and manage **OpenStack** environments end-to-end <br/>
 ⚙️ Automate infrastructure provisioning with **Ansible** <br/>
